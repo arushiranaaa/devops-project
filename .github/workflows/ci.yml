@@ -16,3 +16,7 @@ jobs:
         run: |
           javac HelloDevOps.java
           java HelloDevOps
+
+
+          - name: Build Docker Image
+        run: docker build -t my-java-app:latest .
