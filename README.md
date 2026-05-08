@@ -1,6 +1,6 @@
 # 🚀 Automated Java CI/CD Pipeline
 
-![Java CI Pipeline](https://github.com/arushiranaaa/devops-project/actions/workflows/ci.yml/badge.svg)](https://github.com/arushiranaaa/devops-project/actions/workflows/ci.yml))
+![Java CI Pipeline](https://github.com/arushiranaaa/devops-project/actions/workflows/ci.yml/badge.svg)]
 
 ## 📌 Project Overview
 This project demonstrates a production-ready DevOps workflow for a Java application. It automates the entire lifecycle from code commit to containerized distribution.
